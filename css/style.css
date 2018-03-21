@@ -1,0 +1,40 @@
+html {
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 1.5;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+main {
+    margin: 15px;
+}
+.content-block {
+    width: 25%;
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+
+.pos-1 {
+    margin-left: 5%;
+}
+.pos-2 {
+    margin-left: 25%;
+}
+
+.pos-3 {
+    margin-left: 50%;
+}
+.pos-4 {
+    margin-left: 65%;
+}
